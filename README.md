@@ -43,7 +43,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ZeroGrav1ty/ZeroGrav1ty/output/snake.svg" alt="Snake animation" />
-
-###
